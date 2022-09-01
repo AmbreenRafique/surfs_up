@@ -1,11 +1,14 @@
-# surfs_up
-##Overview
-we have to analyse weather data of Oahu.The purpose of analysing data is to help the client in decision making  of opening a "Surf and Shake" shop to serve locals and tourists. 
-By analysing the general weather condition of the island and the level of precipitaion of previous years can give us a fair idea of how successful would the business be of opening a "surf and shake(ice cream)"shop.Moreover the active stations to determine a best place to open the shop.
+# SURFS_UP
 
-##Results
+## Overview
 
-Analysed the data of previous year(last 365 days) and the summary statistics are as follows
+we have to analyse weather data of Oahu. The purpose of analysing data is to help the client in making a decision about opening a "Surf and Shake" shop to serve locals and tourists.
+
+By analysing the general weather conditions of the island and the level of precipitaton of previous years can give us a fair idea of how successful the business of opening a "surf and shake(ice cream)"shop would be. Moreover, we will analyze the active stations to determine best place to open the shop.
+
+## Results
+
+Analysed the data of previous year (last 365 days) and the summary statistics are as follows:
 
 
 
@@ -33,13 +36,13 @@ Summary statistics for the month of December,
 <img width="133" alt="dec" src="https://user-images.githubusercontent.com/108497494/187839658-b88babed-a95d-4a54-8dbb-732aaa239df8.png">
 
 
-##summary
+## Summary
 
-by analysing the weather data i conclude that the weather condition of the island is overall good for opening a 'surf and shake' shop. we can see few high peaks of precipitaion and a small percentage of dates with low temprature but most of the days are suitable for both surfing and having ice cream with temprature between 75F_85F.
+By analysing the weather data I conclude that the weather condition of the island is overall good for opening a 'surf and shake' shop. We can see few high peaks of precipitaion and a small percentage of dates with low temprature but most of the days are suitable for both surfing and having ice cream with temprature between 75F-85F.
 
 USC00519281, USC00519397, USC00513117 are the 3 most active stations and would be better to choose a station among these to open the shop.
 
-Tempratures in December are comparitivly lower than June but there is no major difference in minmium and maximum tempratures of both months.
+Tempratures in December are comparatively lower than June but there is no major difference in minmium and maximum tempratures of both months.
 
 
 
